@@ -1,9 +1,9 @@
-Usage
+云管平台
 =====
 
 .. _installation:
 
-Installation
+数据大屏
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+智能规划
 ----------------
 
 To retrieve a list of random ingredients,
