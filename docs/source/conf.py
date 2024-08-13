@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '光伏机器人帮助文档'
+copyright = '2024, LookCan'
+author = 'LookCan.ai'
 
 release = '0.1'
 version = '0.1.0'
