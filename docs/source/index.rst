@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+欢迎来到光伏智能机器人帮助文档!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   该文档用于帮助用户更好地使用光伏智能机器人。
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   云管平台
+      数据大屏
+      智能规划
+   手机APP
